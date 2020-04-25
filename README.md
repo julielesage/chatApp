@@ -1,6 +1,6 @@
 # chatApp
 
-be careful this is just an exemple of react-native App.js file for frontend and WebSocket node.js backend file
+be careful this is just an exemple of react-native "App.js" file for frontend and WebSocket node.js "index.js" backend file
 
 git clone this repository will not render anything
 
